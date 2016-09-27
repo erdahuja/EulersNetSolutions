@@ -3,7 +3,7 @@ project(DataStructures)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 
-set(SOURCE_FILES /Users/Deepak/GitHub/EulersNetSolutions/005.cpp
+set(SOURCE_FILES /Users/Deepak/GitHub/EulersNetSolutions/EulersNetSolutions/007.cpp
     )
 
 add_executable(EulersNetSolutions ${SOURCE_FILES})
